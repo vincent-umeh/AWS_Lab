@@ -17,6 +17,6 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # Step 2: Print a "Hello, World!" message
+      # Step 2: Print a "Hello, World!" message I'm having fun
       - name: Print Hello World
         run: echo "Hello, World!"
